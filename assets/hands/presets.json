@@ -1,0 +1,82 @@
+[
+  {
+    "id": "marker_vector",
+    "name": "Bút Dạ Đen (Vector)",
+    "category": "Phổ biến",
+    "filename": "marker_vector.png",
+    "tip_x": 20,
+    "tip_y": 69,
+    "default_scale": 0.65,
+    "description": "Tay 2D cầm bút lông dạ bảng trắng kinh điển"
+  },
+  {
+    "id": "pencil_classic",
+    "name": "Bút Chì Gỗ (2D)",
+    "category": "Phác thảo",
+    "filename": "pencil_classic.png",
+    "tip_x": 20,
+    "tip_y": 87,
+    "default_scale": 0.65,
+    "description": "Tay cầm bút chì gỗ vàng phù hợp vẽ phác thảo & giáo dục"
+  },
+  {
+    "id": "fountain_pen_female",
+    "name": "Tay Nữ Bút Máy",
+    "category": "Thanh lịch",
+    "filename": "fountain_pen_female.png",
+    "tip_x": 20,
+    "tip_y": 68,
+    "default_scale": 0.65,
+    "description": "Tay nữ áo kem cầm bút máy xanh vàng thanh lịch"
+  },
+  {
+    "id": "fineliner_realistic",
+    "name": "Bút Kim (Tả Thực 2D)",
+    "category": "Thực tế",
+    "filename": "fineliner_realistic.png",
+    "tip_x": 21,
+    "tip_y": 72,
+    "default_scale": 0.68,
+    "description": "Tay vẽ 2D tả thực chi tiết cầm bút kim kỹ thuật"
+  },
+  {
+    "id": "paintbrush_artist",
+    "name": "Cọ Vẽ Mỹ Thuật",
+    "category": "Tô màu",
+    "filename": "paintbrush_artist.png",
+    "tip_x": 21,
+    "tip_y": 22,
+    "default_scale": 0.68,
+    "description": "Tay họa sĩ cầm cọ vẽ phù hợp chế độ Vẽ Nét + Tô Màu"
+  },
+  {
+    "id": "marker_cartoon_red",
+    "name": "Bút Đỏ (Flat 2D)",
+    "category": "Hoạt hình",
+    "filename": "marker_cartoon_red.png",
+    "tip_x": 20,
+    "tip_y": 32,
+    "default_scale": 0.62,
+    "description": "Tay hoạt hình phẳng hiện đại cầm bút dạ đỏ nổi bật"
+  },
+  {
+    "id": "stylus_digital",
+    "name": "Bút Cảm Ứng (Stylus)",
+    "category": "Hiện đại",
+    "filename": "stylus_digital.png",
+    "tip_x": 21,
+    "tip_y": 49,
+    "default_scale": 0.65,
+    "description": "Tay cầm bút cảm ứng trắng bạc hiện đại (Apple Pencil style)"
+  },
+  {
+    "id": "comic_ink_pencil",
+    "name": "Nét Mực Comic",
+    "category": "Truyện tranh",
+    "filename": "comic_ink_pencil.png",
+    "tip_x": 21,
+    "tip_y": 286,
+    "default_scale": 0.62,
+    "description": "Tay vẽ nét mực truyện tranh đen trắng cổ điển (OpenClipart)"
+  }
+]
